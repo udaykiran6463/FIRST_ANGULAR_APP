@@ -39,3 +39,10 @@ span {
   font-size: 0.8rem;
   font-weight: normal;
 }
+
+button:hover,
+button:active,
+.active{
+  background-color: #9965dd;
+  color: black;
+}
